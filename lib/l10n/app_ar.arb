@@ -1,0 +1,22 @@
+{
+  "app_title": "اسلامي",
+  "sura_name": "اسم السورة",
+  "hadeth_name": "اسم الحديث",
+  "number_ayah": "عدد الايات",
+  "quran": "القرأن",
+  "hadeth": "حديث",
+  "sebha": "سبحة",
+  "radio": "الاذاعة",
+  "settings": "الاعدادات",
+  "sebha_number": "عدد التسبيحات",
+  "subhan_allah": "سبحان الله",
+  "alhamdulillah": "الحمدالله",
+  "allahu_akbar": "الله اكبر",
+  "la_ilaha_illa_allah": "لا اله الا الله وحده لا شريك له له الملك وله الحمد",
+  "language": "اللغة",
+  "arabic": "العربية",
+  "english": "الانجليزية",
+  "theme": "النمط",
+  "light": "مضئ",
+  "dark": "داكن"
+}
